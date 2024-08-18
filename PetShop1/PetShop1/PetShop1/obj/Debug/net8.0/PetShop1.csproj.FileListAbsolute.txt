@@ -1,0 +1,28 @@
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.exe
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.deps.json
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.runtimeconfig.json
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.dll
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.pdb
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.AssemblyInfoInputs.cache
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.AssemblyInfo.cs
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.csproj.CoreCompileInputs.cache
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.dll
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\obj\Debug\net8.0\refint\PetShop1.dll
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.pdb
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.genruntimeconfig.cache
+C:\Users\NWEHNEM\source\repos\Code You\PetShop1\PetShop1\obj\Debug\net8.0\ref\PetShop1.dll
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.exe
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.deps.json
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.runtimeconfig.json
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.dll
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\bin\Debug\net8.0\PetShop1.pdb
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.AssemblyInfoInputs.cache
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.AssemblyInfo.cs
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.csproj.CoreCompileInputs.cache
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.dll
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\obj\Debug\net8.0\refint\PetShop1.dll
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.pdb
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\obj\Debug\net8.0\PetShop1.genruntimeconfig.cache
+C:\Users\ajree\Desktop\Class Exercise 1 - Pet store part 1\PetShop1\PetShop1\PetShop1\obj\Debug\net8.0\ref\PetShop1.dll
